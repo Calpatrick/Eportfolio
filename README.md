@@ -20,4 +20,4 @@ This portfolio is deployed using GitHub Pages and is accessible at: [Your GitHub
 ## How to Replicate or Contribute
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Calpatrick/Eportfolio.git
